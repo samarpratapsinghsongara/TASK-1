@@ -238,6 +238,341 @@
       "quantity": 10,
       "image": "https://m.media-amazon.com/images/I/41Y0tSST81L._SX300_SY300_QL70_FMwebp_.jpg",
       "description": "Capture high-quality photos with this advanced digital camera."
+    },
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 89.99,
+      "quantity": 15,
+      "image": "https://www.reliancedigital.in/medias/Sony-WH-1000XM5-BT-HeadPhone-Black-493179246-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNDMwNTF8aW1hZ2UvanBlZ3xpbWFnZXMvaGM4L2hhYi85ODk0NjQ3NjYwNTc0LmpwZ3xmOWM1YzQxYWU1YjI4NmQ5YTVlMGYxZTQ1ZDcxNGVkM2U0MDFhZDkyY2Q5YzM4MTBhNjFkMDc5MTY0YWJlOTAw",
+      "description": "High-quality wireless headphones with noise-cancellation and long-lasting battery life."
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "price": 799.99,
+      "quantity": 30,
+      "image": "https://m.media-amazon.com/images/I/71qblDCyONL._SX679_.jpg",
+      "description": "Latest model with a powerful camera, 128GB storage, and a stunning display."
+    },
+    {
+      "id": 3,
+      "name": "Bluetooth Speaker",
+      "price": 45.00,
+      "quantity": 50,
+      "image": "https://m.media-amazon.com/images/I/61+dTZik+fL._SX522_.jpg",
+      "description": "Portable Bluetooth speaker with crystal-clear sound and waterproof design."
+    },
+    {
+      "id": 4,
+      "name": "Laptop Sleeve",
+      "price": 19.99,
+      "quantity": 100,
+      "image": "https://www.thewalletstore.in/cdn/shop/files/01_20c46c52-3b2d-43a4-bc8d-4c10c9e2bdd5.jpg?v=1723021752&width=1000",
+      "description": "Protect your laptop with this stylish and durable sleeve made of premium material."
+    },
+    {
+      "id": 5,
+      "name": "LED Desk Lamp",
+      "price": 35.99,
+      "quantity": 25,
+      "image": "https://m.media-amazon.com/images/I/61Ckk6bdzwL._SX522_.jpg",
+      "description": "Energy-efficient LED desk lamp with adjustable brightness and color temperature."
+    },
+    {
+      "id": 6,
+      "name": "Smartwatch",
+      "price": 149.99,
+      "quantity": 20,
+      "image": "https://m.media-amazon.com/images/I/41gLj+50LFL._SY300_SX300_.jpg",
+      "description": "Track your fitness and stay connected with this sleek, feature-packed smartwatch."
+    },
+    {
+      "id": 7,
+      "name": "Portable Power Bank",
+      "price": 39.99,
+      "quantity": 40,
+      "image": "https://m.media-amazon.com/images/I/416p7a5fIFL._SX300_SY300_QL70_FMwebp_.jpg",
+      "description": "Compact and fast-charging power bank with 20,000mAh capacity."
+    },
+    {
+      "id": 8,
+      "name": "Wireless Charger",
+      "price": 24.99,
+      "quantity": 35,
+      "image": "https://m.media-amazon.com/images/I/41-uqU+U2cL._SY300_SX300_.jpg",
+      "description": "Convenient wireless charger for fast charging your devices."
+    },
+    {
+      "id": 9,
+      "name": "Portable Power Bank",
+      "price": 39.99,
+      "quantity": 40,
+      "image": "https://m.media-amazon.com/images/I/416p7a5fIFL._SX300_SY300_QL70_FMwebp_.jpg",
+      "description": "Compact and fast-charging power bank with 20,000mAh capacity."
+    },
+    {
+      "id": 10,
+      "name": "Smart LED Bulb",
+      "price": 19.99,
+      "quantity": 150,
+      "image": "https://m.media-amazon.com/images/I/41kAJ-7f+sL._SY300_SX300_.jpg",
+      "description": "Energy-efficient smart bulb with color-changing and voice control features."
+    },
+    {
+      "id": 11,
+      "name": "Fitness Tracker",
+      "price": 59.99,
+      "quantity": 45,
+      "image": "https://m.media-amazon.com/images/I/413Hx2qnY1L._SX300_SY300_QL70_FMwebp_.jpg",
+      "description": "Monitor your heart rate, steps, and sleep with this advanced fitness tracker."
+    },
+    {
+      "id": 12,
+      "name": "Laptop Stand",
+      "price": 29.99,
+      "quantity": 70,
+      "image": "https://m.media-amazon.com/images/I/61tqKNI0nTL._SY741_.jpg",
+      "description": "Ergonomic laptop stand for a more comfortable working posture."
+    },
+    {
+      "id": 13,
+      "name": "Noise-Cancelling Earbuds",
+      "price": 69.99,
+      "quantity": 18,
+      "image": "https://m.media-amazon.com/images/I/71QAJAs+oqL._SL1500_.jpg",
+      "description": "Wireless earbuds with noise cancellation for a superior listening experience."
+    },
+    {
+      "id": 14,
+      "name": "Bluetooth Earbuds",
+      "price": 39.99,
+      "quantity": 90,
+      "image": "https://m.media-amazon.com/images/I/71g4CMwdYyL._SL1500_.jpg",
+      "description": "Comfortable Bluetooth earbuds with a secure fit and great sound quality."
+    },
+    {
+      "id": 15,
+      "name": "External Hard Drive",
+      "price": 79.99,
+      "quantity": 30,
+      "image": "https://m.media-amazon.com/images/I/417JL-uzvjL._SX300_SY300_QL70_FMwebp_.jpg",
+      "description": "Reliable external hard drive with 1TB storage for your data backup needs."
+    },
+    {
+      "id": 16,
+      "name": "Gaming Mouse",
+      "price": 29.99,
+      "quantity": 100,
+      "image": "https://m.media-amazon.com/images/I/4189N8RLVYL._SX300_SY300_QL70_FMwebp_.jpg",
+      "description": "Ergonomic gaming mouse with customizable buttons and RGB lighting."
+    },
+    {
+      "id": 17,
+      "name": "Wireless Keyboard",
+      "price": 49.99,
+      "quantity": 60,
+      "image": "https://m.media-amazon.com/images/I/61urVxLeYPL._SX679_.jpg",
+      "description": "Sleek and efficient wireless keyboard with long battery life."
+    },
+    {
+      "id": 18,
+      "name": "Smart TV",
+      "price": 349.99,
+      "quantity": 15,
+      "image": "https://m.media-amazon.com/images/I/61E2tVBELEL._AC_UY327_FMwebp_QL65_.jpg",
+      "description": "Ultra-HD Smart TV with built-in apps and streaming capabilities."
+    },
+    {
+      "id": 19,
+      "name": "Digital Camera",
+      "price": 599.99,
+      "quantity": 10,
+      "image": "https://m.media-amazon.com/images/I/41Y0tSST81L._SX300_SY300_QL70_FMwebp_.jpg",
+      "description": "Capture high-quality photos with this advanced digital camera."
+    },
+    {
+      "id": 20,
+      "name": "Portable Speaker",
+      "price": 59.99,
+      "quantity": 20,
+      "image": "https://m.media-amazon.com/images/I/51LQ2I5jCPL._SX300_SY300_QL70_FMwebp_.jpg",
+      "description": "Compact and portable Bluetooth speaker with rich sound."
+    },{
+      "id": 21,
+      "name": "Wireless Headphones",
+      "price": 89.99,
+      "quantity": 15,
+      "image": "https://www.reliancedigital.in/medias/Sony-WH-1000XM5-BT-HeadPhone-Black-493179246-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNDMwNTF8aW1hZ2UvanBlZ3xpbWFnZXMvaGM4L2hhYi85ODk0NjQ3NjYwNTc0LmpwZ3xmOWM1YzQxYWU1YjI4NmQ5YTVlMGYxZTQ1ZDcxNGVkM2U0MDFhZDkyY2Q5YzM4MTBhNjFkMDc5MTY0YWJlOTAw",
+      "description": "High-quality wireless headphones with noise-cancellation and long-lasting battery life."
+    },
+    {
+      "id": 22,
+      "name": "Bluetooth Speaker",
+      "price": 45.00,
+      "quantity": 50,
+      "image": "https://m.media-amazon.com/images/I/61+dTZik+fL._SX522_.jpg",
+      "description": "Portable Bluetooth speaker with crystal-clear sound and waterproof design."
+    },
+    {
+      "id": 23,
+      "name": "LED Desk Lamp",
+      "price": 35.99,
+      "quantity": 25,
+      "image": "https://m.media-amazon.com/images/I/61Ckk6bdzwL._SX522_.jpg",
+      "description": "Energy-efficient LED desk lamp with adjustable brightness and color temperature."
+    },
+    {
+      "id": 24,
+      "name": "Portable Power Bank",
+      "price": 39.99,
+      "quantity": 40,
+      "image": "https://m.media-amazon.com/images/I/416p7a5fIFL._SX300_SY300_QL70_FMwebp_.jpg",
+      "description": "Compact and fast-charging power bank with 20,000mAh capacity."
+    },
+    {
+      "id": 25,
+      "name": "Portable Power Bank",
+      "price": 39.99,
+      "quantity": 40,
+      "image": "https://m.media-amazon.com/images/I/416p7a5fIFL._SX300_SY300_QL70_FMwebp_.jpg",
+      "description": "Compact and fast-charging power bank with 20,000mAh capacity."
+    },
+    {
+      "id": 26,
+      "name": "Fitness Tracker",
+      "price": 59.99,
+      "quantity": 45,
+      "image": "https://m.media-amazon.com/images/I/413Hx2qnY1L._SX300_SY300_QL70_FMwebp_.jpg",
+      "description": "Monitor your heart rate, steps, and sleep with this advanced fitness tracker."
+    },
+    {
+      "id": 27,
+      "name": "Noise-Cancelling Earbuds",
+      "price": 69.99,
+      "quantity": 18,
+      "image": "https://m.media-amazon.com/images/I/71QAJAs+oqL._SL1500_.jpg",
+      "description": "Wireless earbuds with noise cancellation for a superior listening experience."
+    },
+    {
+      "id": 28,
+      "name": "External Hard Drive",
+      "price": 79.99,
+      "quantity": 30,
+      "image": "https://m.media-amazon.com/images/I/417JL-uzvjL._SX300_SY300_QL70_FMwebp_.jpg",
+      "description": "Reliable external hard drive with 1TB storage for your data backup needs."
+    },
+    {
+      "id": 29,
+      "name": "Wireless Keyboard",
+      "price": 49.99,
+      "quantity": 60,
+      "image": "https://m.media-amazon.com/images/I/61urVxLeYPL._SX679_.jpg",
+      "description": "Sleek and efficient wireless keyboard with long battery life."
+    },
+    {
+      "id": 30,
+      "name": "Digital Camera",
+      "price": 599.99,
+      "quantity": 10,
+      "image": "https://m.media-amazon.com/images/I/41Y0tSST81L._SX300_SY300_QL70_FMwebp_.jpg",
+      "description": "Capture high-quality photos with this advanced digital camera."
+    },
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 89.99,
+      "quantity": 15,
+      "image": "https://www.reliancedigital.in/medias/Sony-WH-1000XM5-BT-HeadPhone-Black-493179246-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNDMwNTF8aW1hZ2UvanBlZ3xpbWFnZXMvaGM4L2hhYi85ODk0NjQ3NjYwNTc0LmpwZ3xmOWM1YzQxYWU1YjI4NmQ5YTVlMGYxZTQ1ZDcxNGVkM2U0MDFhZDkyY2Q5YzM4MTBhNjFkMDc5MTY0YWJlOTAw",
+      "description": "High-quality wireless headphones with noise-cancellation and long-lasting battery life."
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "price": 799.99,
+      "quantity": 30,
+      "image": "https://m.media-amazon.com/images/I/71qblDCyONL._SX679_.jpg",
+      "description": "Latest model with a powerful camera, 128GB storage, and a stunning display."
+    },
+    {
+      "id": 3,
+      "name": "Bluetooth Speaker",
+      "price": 45.00,
+      "quantity": 50,
+      "image": "https://m.media-amazon.com/images/I/61+dTZik+fL._SX522_.jpg",
+      "description": "Portable Bluetooth speaker with crystal-clear sound and waterproof design."
+    },
+    {
+      "id": 4,
+      "name": "Laptop Sleeve",
+      "price": 19.99,
+      "quantity": 100,
+      "image": "https://www.thewalletstore.in/cdn/shop/files/01_20c46c52-3b2d-43a4-bc8d-4c10c9e2bdd5.jpg?v=1723021752&width=1000",
+      "description": "Protect your laptop with this stylish and durable sleeve made of premium material."
+    },
+    {
+      "id": 5,
+      "name": "LED Desk Lamp",
+      "price": 35.99,
+      "quantity": 25,
+      "image": "https://m.media-amazon.com/images/I/61Ckk6bdzwL._SX522_.jpg",
+      "description": "Energy-efficient LED desk lamp with adjustable brightness and color temperature."
+    },
+    {
+      "id": 6,
+      "name": "Smartwatch",
+      "price": 149.99,
+      "quantity": 20,
+      "image": "https://m.media-amazon.com/images/I/41gLj+50LFL._SY300_SX300_.jpg",
+      "description": "Track your fitness and stay connected with this sleek, feature-packed smartwatch."
+    },
+    {
+      "id": 7,
+      "name": "Portable Power Bank",
+      "price": 39.99,
+      "quantity": 40,
+      "image": "https://m.media-amazon.com/images/I/416p7a5fIFL._SX300_SY300_QL70_FMwebp_.jpg",
+      "description": "Compact and fast-charging power bank with 20,000mAh capacity."
+    },
+    {
+      "id": 8,
+      "name": "Wireless Charger",
+      "price": 24.99,
+      "quantity": 35,
+      "image": "https://m.media-amazon.com/images/I/41-uqU+U2cL._SY300_SX300_.jpg",
+      "description": "Convenient wireless charger for fast charging your devices."
+    },
+    {
+      "id": 9,
+      "name": "Portable Power Bank",
+      "price": 39.99,
+      "quantity": 40,
+      "image": "https://m.media-amazon.com/images/I/416p7a5fIFL._SX300_SY300_QL70_FMwebp_.jpg",
+      "description": "Compact and fast-charging power bank with 20,000mAh capacity."
+    },
+    {
+      "id": 10,
+      "name": "Smart LED Bulb",
+      "price": 19.99,
+      "quantity": 150,
+      "image": "https://m.media-amazon.com/images/I/41kAJ-7f+sL._SY300_SX300_.jpg",
+      "description": "Energy-efficient smart bulb with color-changing and voice control features."
+    },
+    {
+      "id": 11,
+      "name": "Fitness Tracker",
+      "price": 59.99,
+      "quantity": 45,
+      "image": "https://m.media-amazon.com/images/I/413Hx2qnY1L._SX300_SY300_QL70_FMwebp_.jpg",
+      "description": "Monitor your heart rate, steps, and sleep with this advanced fitness tracker."
+    },
+    {
+      "id": 12,
+      "name": "Laptop Stand",
+      "price": 29.99,
+      "quantity": 70,
+      "image": "https://m.media-amazon.com/images/I/61tqKNI0nTL._SY741_.jpg",
+      "description": "Ergonomic laptop stand for a more comfortable working posture."
     }
   ]
 }
